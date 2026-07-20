@@ -8,7 +8,7 @@ Engineering student who likes building robots, figuring out why they fail, and f
 
 ## About
 
-- 🎓 Bachelor of Engineering (Honours), **Monash University** - starting Feb 2026
+- 🎓 Bachelor of Engineering (Honours), **Monash University**
 - 🏆 2025 School Dux, Viewbank College (98.95 ATAR)
 - 🖼️ Selected for **VCE Top Designs 2026** (Melbourne Museum) - one of the top 10 Systems Engineering students in Victoria
 - 🤖 Interested in robotics, mechatronics, and aerospace. Currently learning more about computer vision, embedded systems, and control
