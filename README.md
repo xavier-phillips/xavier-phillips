@@ -37,13 +37,7 @@ A first-class-lever elbow exoskeleton designed to assist lifting, pushing, and p
 - Arduino + L298N motor control
 - Water-jet cut aluminium chassis designed in Inventor
 - `C++` `Arduino` `Inventor CAD`
-
----
-
-## Currently learning
-
-Right now I'm working through computer vision, ML, embedded systems, and control theory - mainly by building things and breaking them.
-
+- 
 ---
 
 *More detailed documentation, testing results, and development logs are available in each project's README.*
