@@ -3,7 +3,6 @@
 Engineering student who likes building robots, figuring out why they fail, and fixing them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xphillips-blue)](https://linkedin.com/in/xphillips)
-[![Email](https://img.shields.io/badge/Email-xavierphillips2025%40gmail.com-lightgrey)](mailto:xavierphillips2025@gmail.com)
 
 ---
 
