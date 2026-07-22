@@ -32,7 +32,7 @@ An autonomous 3DOF robotic arm that uses vision to detect and pick strawberries.
 ### 🦾 [exoARM](https://github.com/xavier-phillips/exoARM)
 <img src="https://github.com/xavier-phillips/exoARM/raw/main/images/hero-final-device.jpg" width="400" alt="Completed exoARM device">
 
-A first-class-lever elbow exoskeleton designed to assist lifting, pushing, and pulling tasks.
+A first-class-lever elbow exoskeleton that amplifies lifting, pushing, and pulling force to reduce workplace injury. Built as my VCE Systems Engineering Unit 1 & 2 folio project.
 
 - 535N max force output, 60° range of motion, 125ms input latency
 - Arduino + L298N motor control
