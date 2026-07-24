@@ -19,6 +19,16 @@ Engineering student who likes building robots, figuring out why they fail, and f
 
 ## Featured Projects
 
+### [stepper-blinds-driver](https://github.com/xavier-phillips/stepper-blinds-driver)
+<img src="https://github.com/xavier-phillips/stepper-blinds-driver/raw/main/docs/hero-internals.jpg" width="400" alt="Completed AutoBerryPicker device">
+
+An ultra-quiet NEMA 17 retrofit driver for beaded-chain roller blinds.
+
+- Custom-designed PCB integrating the ESP32, TMC2209, and MP1584EN, and screw terminals.
+- Direct-drive NEMA 17 mechanism designed for ultra-quiet operation, avoiding the gearbox noise common in commercial blind motors.
+- C++ proof-of-concept firmware for ESP32 stepper control using [FastAccelStepper](https://github.com/gin66/FastAccelStepper)
+- `C++` `ESP32` `KiCAD` `Onshape`
+
 ### [AutoBerryPicker](https://github.com/xavier-phillips/AutoBerryPicker)
 <img src="https://github.com/xavier-phillips/AutoBerryPicker/raw/main/images/final-assembly.jpg" width="400" alt="Completed AutoBerryPicker device">
 
